@@ -1,0 +1,12 @@
+1İNCİ SORU:
+- Yıllık gelirdeki her $100'lık artış, eğlence harcamalarında 12 cent'lik artışa sebep olmaktadır. Ayrıca, gelir arttıkça aile bütçesinden eğlence için ayrılan oran artmaktadır. Ancak, bu artış küçük oranlıdır.
+- Çocuklu aileler, eğlence/dinlenme için daha az harcama yapmaktadır. Yapılan harcamalar, sahip olunan her çocuk için $223.57 azalmaktadır. Çocukların ihtiyaçlarının karşılanması ön plana çıkmaktadır.
+- Çocuklu ailelerin gelirlerindeki artış belirli bir seviyeyi aştıktan sonra yapılacak harcamalar daha hızlı artabilecektir. Modele bu durum da eklenebilir.
+
+Yorumların anlamlı olabilmesi için; t testi, jarque-bera/normaltest ve bartlett/levene test sonuçları da verilmelidir.
+
+2NCİ SORU:
+https://github.com/ekinim/veri_bilimi/blob/master/odev_6-4-2.ipynb
+
+3ÜNCÜ SORU:
+https://github.com/ekinim/veri_bilimi/blob/master/odev_6-4-3.ipynb
